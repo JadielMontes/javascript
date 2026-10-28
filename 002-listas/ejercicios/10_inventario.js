@@ -4,7 +4,6 @@
 const nombres = ["Mouse", "Teclado", "Monitor"];
 const precios = [12, 25, 140];
 const cantidades = [8, 2, 4];
-// TAREA 1: registrar un producto nuevo
 function registrarProducto(nombre, precio, cantidad) {
   nombres.push(nombre);
   precios.push(precio);
